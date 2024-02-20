@@ -48,7 +48,7 @@ We welcome contributions to improve this project. Please follow these steps to c
 5. Open a Pull Request.
 
 # License
-Distributed under the Apache 2.0 License. See LICENSE for more information.
+This project is subject to the MIT License. A copy of this license can be found in [LICENSE](LICENSE) at the root of this repo.
 
 # Acknowledgments
 Intel Corporation for the initial Python version of the carbon calculator ([link](https://github.com/intel/intel-extension-for-transformers/blob/main/intel_extension_for_transformers/utils/llm_carbon_calc.py)). 

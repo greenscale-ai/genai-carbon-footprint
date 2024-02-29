@@ -1,5 +1,5 @@
 # GenAI Carbon Footprint calculator for LLM Inference
-This repository contains a Go library (github.com/greenscale-ai/genai-carbon-footprint) designed to estimate the energy usage and carbon emissions associated with running Large Language Model (LLM) inferences, taking into account various factors such as the carbon intensity of electricity, device Total Design Power (TDP), memory consumption, and inference timing.
+This repository contains a Go library (github.com/greenscale-ai/genai-carbon-footprint) designed to estimate the energy usage and carbon emissions associated with running Large Language Model (LLM) inferences, taking into account various factors such as the carbon intensity of electricity, device Thermal Design Power (TDP), memory consumption, and inference timing.
 
 # Features
 * Carbon Intensity Calculation: Calculate the carbon emissions based on user-provided or default values for electricity carbon intensity, device TDP, memory usage, and inference timing.
